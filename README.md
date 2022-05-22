@@ -15,8 +15,9 @@ moringa_project - A folder that contains everything about the project:
 	zippedData.zip - contains zipped data files that i used.
 
 	zippedData - unzipped data files.
+	
+	project.pdf - non technical presentation of the insights and findings.
+		
 
 
-
-project.pdf - non technical presentation of the insights and findings.
 
