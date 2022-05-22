@@ -1,20 +1,22 @@
 # Moringa School Phase 1 Project
-
 By Charity
+
+The project is about analyzing given movie data to find insights for Microsoft to start a successful movie studio
+Movie data has been collected from various sources including Box Office Mojo, IMDB, Rotten Tomatoes,TheMovieDB,The Numbers.
 
 This repository has detailed code and data visualizations used to create the project.
 
 Repository structure:
 
-code - A folder with the code used to create the visualizations:
+moringa_project - A folder that contains everything about the project:
 
-	Data Cleaning.ipynb - This notebook contains data processing steps such as cleaning, loading, and preparing the data to be visualized.
+	movie analysis.ipynb - data loading, cleaning, preparation and visualizations.
 	
-	Bokeh-Plt-Plots.ipynb - This notebook contains plots made using Bokeh and Matplotlib.
+	zippedData.zip - contains zipped data files that i used.
 
-	Plotly-Plots.ipynb - This notebook contains plots made using Plotly.
+	zippedData - unzipped data files.
 
-data - A zip file of the data that we used.
 
-presentation.pdf - Our presentation of the visualization.
+
+project.pdf - non technical presentation of the insights and findings.
 
